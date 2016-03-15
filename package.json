@@ -1,7 +1,7 @@
 {
   "name": "ez-mailer",
   "description": "EZ streams for nodemailer",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "license": "MIT",
   "author": {
     "name": "Sage X3 platform team"
@@ -19,8 +19,7 @@
   "dependencies": {
     "ez-streams": "^3.0.0",
     "mustache": "^0.8.2",
-    "nodemailer": "^2.3.0",
-	"nodemailer-html-to-text": "^1.0.2"
+    "nodemailer": "^2.3.0"
   },
   "main": "index.js",
   "readmeFilename": "README.md"
